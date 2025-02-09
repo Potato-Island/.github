@@ -1,3 +1,3 @@
-# About
+# .github
 
-This GitHub organization houses code use for projects associated with Potato Island. 
+Repo for GitHub organization artifacts
